@@ -1,7 +1,10 @@
-# Air-Quality-Index
+# Air-Quality-Index Prediction
 
 ## Demo
-Hosted in localhost
+Link: [https://aqipm.herokuapp.com/](https://aqipm.herokuapp.com/)
+
+![Home](Images/Home.PNG)
+![Predict](Images/predict.PNG)
 
 
 ## Overview
@@ -16,6 +19,11 @@ The Code is written in Python 3.8.6. If you don't have Python installed you can 
 ```bash
 pip install -r requirements.txt
 ```
+
+## Deployment
+Deployed on Heroku Platform
+![Deploy](Images/Deployment.PNG)
+
 ## Technologies Used
 
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
