@@ -3,8 +3,8 @@
 ## Demo
 Link: [https://aqipm.herokuapp.com/](https://aqipm.herokuapp.com/)
 
-![Home](Images/Home.PNG)
-![Predict](Images/predict.PNG)
+![Home](assets/Images/Home.PNG)
+![Predict](assets/Images/predict.PNG)
 
 
 ## Overview
@@ -26,7 +26,7 @@ pip install -r requirements.txt
 
 ## Deployment
 Deployed on Heroku Platform
-![Deploy](Images/Deployment.PNG)
+![Deploy](assets/Images/Deployment.PNG)
 
 ## Technologies Used
 
